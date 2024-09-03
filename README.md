@@ -1,1 +1,1 @@
-CipherSchools coding challenge Day 1
+CipherSchools coding challenge
